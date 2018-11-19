@@ -1,4 +1,5 @@
 Todo:
+0. In cmake file, you should be able to comment out "server_plugin" executable. This is used for an outdated Intel video server and may cause issue during compilation. 
 1. install intel's OpenVino computational vision sdk from https://software.intel.com/en-us/openvino-toolkit
 	Follow installation instructions at https://software.intel.com/en-us/articles/OpenVINO-Install-Linux, make sure you can run "Verify the Installation Using the Demo Scripts"
 	Currently, only Ubuntu operation system is supported. 
